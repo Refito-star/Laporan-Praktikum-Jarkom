@@ -30,4 +30,4 @@ Setelah masuk, lalu ketik http
 ![foto kedelapan](../assets/image/foto3.5_setelahlogin.png)
 ![foto kedelapan](../assets/image/foto3.5_week2.png)
 ![foto kedelapan](../assets/image/foto3.5_week2login.png)
-![foto kedelapan](../assets/image/foto3.5_sesudahlogin.png)
+![foto kedelapan](../assets/image/foto3.5_week2sesudahlogin.png)
