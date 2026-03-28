@@ -31,10 +31,12 @@ atau TCP? Ya Melalui UDP
 
 3. Pada pesan permintaan DNS, apa alamat IP tujuannya? Apa alamat IP server DNS lokal anda
 (gunakan ipconfig untuk mencari tahu)? Apakah kedua alamat IP tersebut sama?
+
 ![foto](../assets/image/nomer3.png)
 
 4. Periksa pesan permintaan DNS. Apa “jenis” atau ”type” dari pesan tersebut? Apakah pesan
 permintaan tersebut mengandung ”jawaban” atau ”answers”?
+
 ![foto](../assets/image/nomer4.png)
 
 5. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau ”answers” yang terdapat di
