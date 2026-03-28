@@ -21,7 +21,6 @@ atau TCP? Ya Melalui UDP
 
 2. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasannya? 
 ![foto keenam](../assets/image/nomer2(1).png) 
-
 ![foto ketuju](../assets/image/nomer2(2).png)
 
 3. Pada pesan permintaan DNS, apa alamat IP tujuannya? Apa alamat IP server DNS lokal anda
