@@ -9,15 +9,21 @@
 ## Soal 4.2 Nslookup
 1. Jalankan nslookup untuk mendapatkan alamat IP dari server web di Asia. Berapa alamat IP
 server tersebut?
+![foto](../assets/image/fotonls1.png)
+
 2. Jalankan nslookup agar dapat mengetahui server DNS otoritatif untuk universitas di Eropa.
+![foto](../assets/image/fotonls2.png)
+
 3. Jalankan nslookup untuk mencari tahu informasi mengenai server email dari Yahoo! Mail
 melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-nya? 
+![foto](../assets/image/fotonls3.png)
 
 ## Soal 4.4 Tracking DNS Dengan Wireshark
 
 # Soal Pertama
 1. Cari pesan permintaan DNS dan balasannya. Apakah pesan tersebut dikirimkan melalui UDP
 atau TCP? Ya Melalui UDP
+![foto](../assets/image/nomer1.png)
 
 2. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasannya? 
 ![foto keenam](../assets/image/nomer2(1).png) 
