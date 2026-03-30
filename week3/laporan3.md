@@ -36,7 +36,7 @@ atau TCP? Ya Melalui UDP
 
 4. Periksa pesan permintaan DNS. Apa “jenis” atau ”type” dari pesan tersebut? Apakah pesan
 permintaan tersebut mengandung ”jawaban” atau ”answers”?
-
+TYPE AAAA, IYA MENGANDUNG ANSWERS
 ![foto](../assets/image/nomer4.png)
 
 5. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau ”answers” yang terdapat di
@@ -46,10 +46,12 @@ ADA 2 ANSWERS
 
 6. Perhatikan paket TCP SYN yang selanjutnya dikirimkan oleh host Anda. Apakah alamat IP
 pada paket tersebut sesuai dengan alamat IP yang tertera pada pesan balasan DNS?
+IYA
 
 7. Halaman web yang sebelumnya anda akses (http://www.ietf.org) memuat beberapa
 gambar. Apakah host Anda perlu mengirimkan pesan permintaan DNS baru setiap kali ingin
 mengakses suatu gambar?  
+TIDAK PERLU
 
 # Soal Kedua
 1. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasan DNS?
