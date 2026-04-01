@@ -4,8 +4,8 @@
 1. 4.2
 2. 4.4
 
-## Lampiran
-
+## Lampiran 
+# MODUL 4
 ## Soal 4.2 Nslookup
 1. Jalankan nslookup untuk mendapatkan alamat IP dari server web di Asia. Berapa alamat IP
 server tersebut?
@@ -81,3 +81,4 @@ tersebut mengandung ”jawaban” atau ”answers”?
 3. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di
 dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
 4. Sertakan hasil tangkapan layar.
+# MODUL 5   
