@@ -6,17 +6,22 @@
 2. 6.4
 # Lampiran
 
-
+# 6.3
 # Soal 1
 1. Berapa alamat IP dan nomor port TCP yang digunakan oleh komputer klien (sumber) untuk
 mentransfer file ke gaia.cs.umass.edu? Cara paling mudah menjawab pertanyaan ini adalah
 dengan memilih sebuah pesan HTTP dan meneliti detail paket TCP yang digunakan untuk
 membawa pesan HTTP tersebut.
+
+![foto](../assets/image/tcp1.jpeg)
+
 2. Apa alamat IP dari gaia.cs.umass.edu? Pada nomor port berapa ia mengirim dan menerima
 segmen TCP untuk koneksi ini? 
 3. 
 
-# 6.3
+
+
+# 6.4
 # soal 2
 
 1. Berapa nomor urut segmen TCP SYN yang digunakan untuk memulai sambungan TCP antara
@@ -40,7 +45,7 @@ Berapa nomor urut dari enam segmen pertama dalam TCP (termasuk segmen yang beris
 HTTP POST)? Pada jam berapa setiap segmen dikirim? Kapan ACK untuk setiap segmen
 diterima? Dengan adanya perbedaan antara kapan setiap segmen TCP dikirim dan kapan
 acknowledgement-nya diterima, berapakah nilai RTT untuk keenam segmen tersebut?
-Berapa nilai EstimatedRTT setelah penerimaan setiap ACK? Catatan: Wireshark memiliki 
+Berapa nilai EstimatedRTT setelah penerimaan setiap ACK?Catatan: Wireshark memiliki 
 fitur yang memungkinkan Anda untuk memplot RTT untuk setiap segmen TCP yang dikirim.
 Pilih segmen TCP yang dikirim dari klien ke server gaia.cs.umass.edu pada jendela "daftar 
 
@@ -57,7 +62,6 @@ diterima?
 9. Berapa throughput (byte yang ditransfer per satuan waktu) untuk sambungan TCP?
 Jelaskan bagaimana Anda menghitung nilai ini. 
 
-# 6.4
 
 # 6.5
 
