@@ -81,15 +81,24 @@ merupakan default alamat IP server DNS lokal Anda?
 
 2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan
 tersebut mengandung ”jawaban” atau ”answers”? 
+TYPE AAAA, TIDAK MENGANDUNG ANSWERS
+![FOTO](../assets/image/soalketiga2.png)
+
 3. Periksa pesan balasan DNS. Apa nama server MIT yang diberikan oleh pesan balasan?
 Apakah pesan balasan ini juga memberikan alamat IP untuk server MIT tersebut? 
+NAMA SERVER mit.edu , YA MEMBERIKAN ALAMAT IP
+![FOTO](../assets/image/soalketiga3.png)
 
 # Soal Keempat
 1. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut
 merupakan default alamat IP server DNS lokal Anda?
+![foto](../assets/image/soalkeempat1.png)
+
 2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan
 tersebut mengandung ”jawaban” atau ”answers”?
+![foto](../assets/image/soalkeempat2.png)
+
 3. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di
 dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
-4. Sertakan hasil tangkapan layar.
-# MODUL 5   
+![foto](../assets/image/soalkeempat3.png)
+
