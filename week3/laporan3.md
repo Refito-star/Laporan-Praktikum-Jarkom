@@ -57,17 +57,28 @@ TIDAK PERLU
 
 # Soal Kedua
 1. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasan DNS?
+![foto](../assets/image/soalkedua1.png)
+
 2. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut
 merupakan default alamat IP server DNS lokal Anda?
+![foto](../assets/image/soalkedua2.png)
+
 3. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan
 tersebut mengandung ”jawaban” atau ”answers”?
+TYPE A, TIDAK MENGANDUNG ASNWERS
+![foto](../assets/image/soalkedua3.png)
+
 4. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di
 dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
-5. Sertakan hasil tangkapan layar. 
+ADA SATU ANSWERS
+![foto](../assets/image/soalkedua4.png)
+
 
 # Soal Ketiga
 1. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut
 merupakan default alamat IP server DNS lokal Anda?
+![foto](../assets/image/soalketiga1.png)
+
 2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan
 tersebut mengandung ”jawaban” atau ”answers”? 
 3. Periksa pesan balasan DNS. Apa nama server MIT yang diberikan oleh pesan balasan?
